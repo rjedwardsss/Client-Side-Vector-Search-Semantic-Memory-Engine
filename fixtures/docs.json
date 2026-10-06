@@ -1,0 +1,26 @@
+[
+  {
+    "id": "note-search",
+    "text": "Build a client-side vector search demo that ranks personal notes without any external embedding API."
+  },
+  {
+    "id": "note-cache",
+    "text": "Cache simulators compare LRU and LFU eviction policies across repeated access traces."
+  },
+  {
+    "id": "note-network",
+    "text": "Network routers use shortest paths and next-hop tables to move packets through a topology."
+  },
+  {
+    "id": "note-recipe",
+    "text": "Dinner idea: roast vegetables with garlic, lemon, olive oil, and crispy chickpeas."
+  },
+  {
+    "id": "note-browser",
+    "text": "Keep semantic memory in the browser so private documents never leave the device."
+  },
+  {
+    "id": "note-debug",
+    "text": "When debugging ranking quality, inspect tokens, vector dimensions, and cosine scores."
+  }
+]

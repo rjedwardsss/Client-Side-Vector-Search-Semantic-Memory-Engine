@@ -1,0 +1,13 @@
+{
+  "name": "client-side-vector-search-semantic-memory-engine",
+  "version": "1.0.0",
+  "description": "A tiny local semantic memory engine using deterministic hashing embeddings.",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/cli.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
